@@ -1,0 +1,16 @@
+# Ambiente Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+# Dados brutos
+data/raw/*.csv
+
+# Arquivos temporários
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
